@@ -1,0 +1,22 @@
+#block4{
+	position: relative;
+	top: -300px;
+}
+#block8{
+	position: relative;
+	left: 420px;
+	top: -550px;
+	width: 50%;
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+#block9{
+	position: relative;
+	left: 420px;
+	top: -300px;
+	width: 50%;
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
