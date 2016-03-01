@@ -13,8 +13,6 @@ xhr.onload = function(){
 xhr.open('POST', 'json/news.json', true);
 xhr.send();
 
-//document.getElementById('weekToday').valueAsDate = new Date();
-
 function Calendar4(id, year, month) {
             Date.prototype.getWeek = function () {
                 var target  = new Date(this.valueOf());
